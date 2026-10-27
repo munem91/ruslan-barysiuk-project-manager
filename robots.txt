@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://munem91.github.io/ruslan-barysiuk-project-manager/sitemap.xml
