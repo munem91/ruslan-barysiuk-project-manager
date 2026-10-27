@@ -1,0 +1,174 @@
+<!-- English -->
+# Ruslan Barysiuk — IT Project Manager / Technical PM
+
+Resume of Ruslan Barysiuk: IT Project Manager / Technical PM with 5 years in software delivery and 5 years in sales. Scrum, Kanban, Jira, Linear, specs, estimates, releases. Remote.
+
+IT project manager with a hands-on technical background: 5 years in mobile and web development (6 products on the App Store and Google Play) and 5 years in sales and e-commerce before IT (own online store).
+
+I understand both the client's business and how engineering works — estimates stay honest and the client gets realistic timelines. I use AI tools (Claude, Cursor) daily to produce specs, documentation and status reports fast.
+
+## Key skills
+
+- **Management:** Scrum, Kanban, Agile, Roadmaps, Estimates in hours, Stakeholder management, Technical specs, User stories, Project audits
+- **Tools:** Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor
+- **Technical context:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Subscriptions & payments, Analytics (Firebase, Adjust)
+
+## Experience
+
+### Senior Flutter Developer · technical project lead — Document Scanner & PDF Editor (contract)
+Sep 2026 — Oct 2026
+
+- Owned the mobile track without a dedicated PM: architecture, backlog prioritization, release plan and direct client communication.
+- Joined a project stuck before release: audited the codebase, documented the architecture and shipped the app to the App Store and Google Play in 1.5 months.
+- Built the release plan, estimated tasks in hours, tracked work in Trello and Hubstaff, sent the client regular status updates.
+- Wrote architecture and build documentation so the project can be handed over to another developer in a day.
+- Added monitoring and attribution: Firebase Crashlytics and Adjust (neither was in place).
+
+### Senior Flutter Developer · releases & stakeholder comms — ProveUp — fitness battles & freestyle football (contract)
+May 2026 — Sep 2026
+
+- Tasks in Linear, syncs with the PM and client, code delivery to the client per an agreed process (semver, runbook).
+- Distributed team (client, PM, backend, design): demos, reviews, status updates, API alignment.
+- Made the case to the client for StoreKit and Google Play Billing over Stripe for virtual goods (store rules).
+- Two builds from one codebase (prod / legacy flavors), migration to a new Apple developer account, manual code signing, TestFlight (internal and external beta).
+
+### Senior Flutter Developer · mobile product owner — Healthy4u — AI health assistant (product startup)
+Jun 2025 — Sep 2026
+
+- Owned the mobile product end to end: feature estimates, roadmap, release cycle, syncs with the founder, designer and backend.
+- 1.5 years on an ML product team: specs and API contracts for the backend, took part in RAG and LLM-pipeline architecture discussions.
+- Rewrote the app from scratch (previously iOS-only native Swift) and shipped it to the App Store and Google Play; sole mobile developer for 15 months: regular releases, Clean Architecture, TDD.
+- Several App Store and Google Play review cycles; resolved Guideline 1.4.1 and 3.1.2(c) rejections.
+- When something breaks on the server, I bring the backend a report with logs and expected behavior instead of waiting.
+
+### Flutter Developer & Project Manager — forYou Inc — Agrotook marketplace
+Oct 2024 — May 2025
+
+- Ran the project: client communication, gathering and formalizing requirements, development plan, tasks in Trello, deadline tracking — MVP launched on time.
+- Built a classifieds marketplace for the Spanish agricultural market solo and released it on Google Play: auth, filters, listings, localization.
+- Set up CI/CD on GitHub Actions and Docker, environments via --dart-define; store publishing and moderation.
+
+### Flutter Developer — Freelance — contract projects
+Mar 2024 — Sep 2024
+
+- Revived a 5-year-old legacy VPN app: SDK updates, migration to Dart 3 and Android 13/14, native Kotlin modules on top of FFmpeg.
+- WebView apps with JS bridges and a Telegram Mini App on Flutter Web.
+
+### Flutter Developer — SFERA, Rabotnik24, Kerla, Gybernaty
+Jan 2022 — Feb 2024
+
+- Worked in teams of 3 to 10+ people: git-flow, code review, Scrum sprints, tasks in Jira.
+- Flutter work in teams: Rabotnik24 (large team, Clean Architecture, REST, git-flow), Kerla (Riverpod, Serverpod, PostgreSQL, Docker, CI/CD), Gybernaty (crypto wallets, web3dart), SFERA (first role). Before that, in 2021 — commercial front-end in React.
+
+### Business owner — Before IT: sales & e-commerce
+2017 — 2021
+
+- Launched an online store and an offline business: sales, negotiations, content, coordinating small teams in Trello.
+- Worked with developers as the client: set tasks, tested, found bugs, accepted deliverables.
+
+## Open to roles
+
+IT Project Manager, Technical Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов
+
+## Education · Languages
+
+Institute of Modern Knowledge named after A. M. Shirokov, Minsk — higher education
+
+Russian and Belarusian — native · Ukrainian — fluent · English — B1 (classes 3 times a week)
+
+Letter of recommendation from a previous employer available on request. Network of experienced engineers from past projects — can bring in more people if needed.
+
+## Contact
+
+Telegram: https://t.me/art_munem · Email: borisukrusaln12345@gmail.com · WhatsApp: +66 80 285 5847 · LinkedIn: https://www.linkedin.com/in/ruslan-barysiuk-005b27236/ · GitHub: https://github.com/munem91
+
+Web: https://munem91.github.io/ruslan-barysiuk-project-manager/
+
+
+<!-- Русский -->
+# Руслан Борисюк — Project Manager / Менеджер IT-проектов
+
+Резюме Руслана Борисюка: менеджер IT-проектов (Project Manager) с техническим бэкграундом — 5 лет в разработке и 5 лет в продажах. Scrum, Kanban, Jira, Linear, ТЗ, оценка сроков, релизы. Удалённо.
+
+Менеджер IT-проектов с техническим бэкграундом: 5 лет в мобильной и веб-разработке (6 продуктов в App Store и Google Play) и 5 лет в продажах и e-commerce до IT (свой интернет-магазин).
+
+Понимаю и бизнес заказчика, и кухню разработки — разработчики не могут «напустить тумана» в оценках, а заказчик получает честные сроки. Каждый день работаю с AI-инструментами (Claude, Cursor): быстро готовлю ТЗ, документацию и статусы.
+
+## Ключевые навыки
+
+- **Управление:** Scrum, Kanban, Agile, Роадмап, Оценка задач в часах, Управление стейкхолдерами, Написание ТЗ, User stories, Аудит проектов
+- **Инструменты:** Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor
+- **Технический контекст:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Подписки и платежи, Аналитика (Firebase, Adjust)
+
+## Опыт работы
+
+### Senior Flutter Developer · технический PM проекта — Сканер документов и PDF-редактор (контракт)
+Сентябрь 2026 — Октябрь 2026
+
+- Вёл мобильное направление без отдельного PM: архитектура, приоритизация бэклога, релизный план и прямая коммуникация с заказчиком.
+- Подключился к проекту, застрявшему перед релизом: провёл аудит, задокументировал архитектуру и за 1,5 месяца довёл приложение до релиза в App Store и Google Play.
+- План до релиза, оценка задач в часах, Trello и Hubstaff, регулярные статусы заказчику.
+- Написал техническую документацию по архитектуре и сборке — проект можно передать другому разработчику за день.
+- Внедрил мониторинг и атрибуцию: Firebase Crashlytics и Adjust (до этого не было).
+
+### Senior Flutter Developer · релизы и коммуникация — ProveUp — фитнес-батлы и футбольный фристайл (контракт)
+Май 2026 — Сентябрь 2026
+
+- Задачи в Linear, синки с ПМ и заказчиком, поставка кода заказчику по регламенту (semver, runbook).
+- Распределённая команда (заказчик, ПМ, бэкенд, дизайн): демо, ревью, статусы, согласование API.
+- Обосновал заказчику StoreKit и Google Play Billing вместо Stripe для виртуальных товаров (правила сторов).
+- Две сборки из одной кодовой базы (flavors prod / legacy), переезд на новый Apple-аккаунт, ручное подписание, TestFlight (внутренняя и внешняя бета).
+
+### Senior Flutter Developer · владелец мобильного продукта — Healthy4u — AI health-ассистент (продуктовый стартап)
+Июнь 2025 — Сентябрь 2026
+
+- Отвечал за мобильный продукт целиком: оценка фич, роадмап, релизный цикл, синки с фаундером, дизайнером и бэкендом.
+- 1,5 года в команде ML-проекта: ТЗ и API-контракты для бэкенда, участие в обсуждении архитектуры RAG и LLM-пайплайна.
+- Переписал приложение с нуля (раньше было только нативное iOS на Swift) и вывел в App Store и Google Play; 15 месяцев — единственный мобильный разработчик: регулярные релизы, Clean Architecture, TDD.
+- Несколько циклов ревью App Store и Google Play, закрыл реджекты по Guidelines 1.4.1 и 3.1.2(c).
+- Если что-то ломается на сервере — приношу бэкенду отчёт с логами и ожидаемым поведением, а не жду.
+
+### Flutter Developer & Project Manager — forYou Inc — маркетплейс Agrotook
+Октябрь 2024 — Май 2025
+
+- Вёл проект: общение с заказчиком, сбор и формализация требований, план разработки, задачи в Trello, контроль сроков — MVP запущен в срок.
+- Один собрал маркетплейс объявлений для испанского агрорынка и выпустил в Google Play: авторизация, фильтры, объявления, локализация.
+- Настроил CI/CD на GitHub Actions и Docker, окружения через --dart-define; публикация и модерация в сторе.
+
+### Flutter Developer — Фриланс — контрактные проекты
+Март 2024 — Сентябрь 2024
+
+- Оживил legacy-приложение (VPN) 5-летней давности: обновил SDK, миграция на Dart 3 и Android 13/14, нативные модули на Kotlin поверх FFmpeg.
+- WebView-приложения с JS-мостами и Telegram Mini App на Flutter Web.
+
+### Flutter Developer — SFERA, Работник24, Kerla, Gybernaty
+Январь 2022 — Февраль 2024
+
+- Работал в командах от 3 до 10+ человек: git-flow, код-ревью, Scrum-спринты, задачи в Jira.
+- Flutter-разработка в командах: Работник24 (большая команда, Clean Architecture, REST, git-flow), Kerla (Riverpod, Serverpod, PostgreSQL, Docker, CI/CD), Gybernaty (криптокошельки, web3dart), SFERA (первая роль). До этого, в 2021 — коммерческий фронтенд на React.
+
+### Владелец бизнеса — До IT: продажи и e-commerce
+2017 — 2021
+
+- Запустил интернет-магазин и офлайн-бизнес: продажи, переговоры, контент, координация небольших команд в Trello.
+- Работал с разработчиками со стороны заказчика: ставил задачи, тестировал, находил баги, принимал работу.
+
+## Подхожу на позиции
+
+IT Project Manager, Technical Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов
+
+## Образование · Языки
+
+Институт современных знаний им. А. М. Широкова, Минск — высшее
+
+Русский и белорусский — родные · Украинский — свободно · Английский — B1 (курсы 3 раза в неделю)
+
+Рекомендательное письмо от предыдущего работодателя — по запросу. Есть контакты опытных коллег с прошлых проектов — при необходимости подключу ещё специалистов.
+
+## Контакты
+
+Telegram: https://t.me/art_munem · Email: borisukrusaln12345@gmail.com · WhatsApp: +66 80 285 5847 · LinkedIn: https://www.linkedin.com/in/ruslan-barysiuk-005b27236/ · GitHub: https://github.com/munem91
+
+Web: https://munem91.github.io/ruslan-barysiuk-project-manager/ru.html
+
+
