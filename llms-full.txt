@@ -1,17 +1,19 @@
 <!-- English -->
 # Ruslan Barysiuk — IT Project Manager / Technical PM
 
-Resume of Ruslan Barysiuk: IT Project Manager / Technical PM with 5 years in software delivery and 5 years in sales. Scrum, Kanban, Jira, Linear, specs, estimates, releases. Remote.
+IT / Technical Project Manager: 5 years running mobile and web projects plus 8+ years in business management and sales. Agile, Scrum, Kanban, Jira, schedule, risk and stakeholder management, App Store and Google Play releases. Remote.
 
-IT project manager with a hands-on technical background: 5 years in mobile and web development (6 products on the App Store and Google Play) and 5 years in sales and e-commerce before IT (own online store).
+IT project manager with 13+ years in management: 8+ years leading sales, teams and my own businesses across industries (e-commerce, offline retail business, B2C/B2B sales), and the last 5 years running mobile and web projects — from requirements to App Store and Google Play release. 6 products shipped.
 
-I understand both the client's business and how engineering works — estimates stay honest and the client gets realistic timelines. I use AI tools (Claude, Cursor) daily to produce specs, documentation and status reports fast.
+Hands-on technical background (I'm a developer myself): honest estimates, risks surfaced early, no hand-waving from the team. On every project I analyzed and set up the PM process: backlog, sprints, roadmap, status reporting, acceptance, code delivery. I use AI tools (Claude, Cursor) daily to produce specs, documentation and reports several times faster.
 
 ## Key skills
 
-- **Management:** Scrum, Kanban, Agile, Roadmaps, Estimates in hours, Stakeholder management, Technical specs, User stories, Project audits
-- **Tools:** Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor
-- **Technical context:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Subscriptions & payments, Analytics (Firebase, Adjust)
+- **Project management:** Project management, Agile, Scrum, Kanban, Waterfall, Project planning, Work breakdown structure (WBS), Estimation, Roadmapping, Risk management, Change management, Scope management, Budget tracking, Status reporting, Acceptance, Release management
+- **People & business:** Team leadership, Stakeholder management, Cross-functional teams, Negotiation, Business communication, B2B / B2C sales, Client management, Task assignment
+- **Requirements & analytics:** Requirements gathering, Technical specifications, User stories, API contracts, Customer development, Product analytics (Firebase, Adjust)
+- **Tools:** Jira, Confluence, Linear, Trello, Notion, Miro, Figma, Hubstaff, Google Sheets, GitHub / GitLab, Postman, Claude, Cursor
+- **Technical context:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, In-app purchases & subscriptions
 
 ## Experience
 
@@ -20,9 +22,9 @@ Sep 2026 — Oct 2026
 
 - Owned the mobile track without a dedicated PM: architecture, backlog prioritization, release plan and direct client communication.
 - Joined a project stuck before release: audited the codebase, documented the architecture and shipped the app to the App Store and Google Play in 1.5 months.
+- Identified the stalled project's risks (forked native packages, camera performance, store review) and closed them before release.
 - Built the release plan, estimated tasks in hours, tracked work in Trello and Hubstaff, sent the client regular status updates.
 - Wrote architecture and build documentation so the project can be handed over to another developer in a day.
-- Added monitoring and attribution: Firebase Crashlytics and Adjust (neither was in place).
 
 ### Senior Flutter Developer · releases & stakeholder comms — ProveUp — fitness battles & freestyle football (contract)
 May 2026 — Sep 2026
@@ -41,34 +43,37 @@ Jun 2025 — Sep 2026
 - Several App Store and Google Play review cycles; resolved Guideline 1.4.1 and 3.1.2(c) rejections.
 - When something breaks on the server, I bring the backend a report with logs and expected behavior instead of waiting.
 
-### Flutter Developer & Project Manager — forYou Inc — Agrotook marketplace
+### Project Manager & Flutter Developer — forYou Inc — Agrotook marketplace
 Oct 2024 — May 2025
 
 - Ran the project: client communication, gathering and formalizing requirements, development plan, tasks in Trello, deadline tracking — MVP launched on time.
 - Built a classifieds marketplace for the Spanish agricultural market solo and released it on Google Play: auth, filters, listings, localization.
 - Set up CI/CD on GitHub Actions and Docker, environments via --dart-define; store publishing and moderation.
 
-### Flutter Developer — Freelance — contract projects
+### Flutter Developer · client project management — Freelance — contract projects
 Mar 2024 — Sep 2024
 
+- Ran client projects myself: estimates, proposals, work plans, acceptance and handover.
 - Revived a 5-year-old legacy VPN app: SDK updates, migration to Dart 3 and Android 13/14, native Kotlin modules on top of FFmpeg.
-- WebView apps with JS bridges and a Telegram Mini App on Flutter Web.
 
-### Flutter Developer — SFERA, Rabotnik24, Kerla, Gybernaty
+### Flutter Developer · Scrum teams — SFERA, Rabotnik24, Kerla, Gybernaty
 Jan 2022 — Feb 2024
 
+- In every team I studied how the PM and process worked — sprints, planning, retros, estimation — and carried it into my own projects.
 - Worked in teams of 3 to 10+ people: git-flow, code review, Scrum sprints, tasks in Jira.
-- Flutter work in teams: Rabotnik24 (large team, Clean Architecture, REST, git-flow), Kerla (Riverpod, Serverpod, PostgreSQL, Docker, CI/CD), Gybernaty (crypto wallets, web3dart), SFERA (first role). Before that, in 2021 — commercial front-end in React.
 
-### Business owner — Before IT: sales & e-commerce
-2017 — 2021
+### Sales manager / head of sales, business owner — Before IT: business management & sales — e-commerce, offline business, B2C/B2B
+2013 — 2021
 
+- Led small teams (sales staff, contractors, freelancers): hiring, task assignment, KPI and sales-plan tracking.
+- B2C and B2B sales and negotiations, objection handling, long-term client relationships.
+- Ran the budget and purchasing of my own online store: unit economics, margins, supplier management.
 - Launched an online store and an offline business: sales, negotiations, content, coordinating small teams in Trello.
 - Worked with developers as the client: set tasks, tested, found bugs, accepted deliverables.
 
 ## Open to roles
 
-IT Project Manager, Technical Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов
+IT Project Manager, Technical Project Manager, Agile Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Product Manager (mobile), Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов, Руководитель отдела продаж
 
 ## Education · Languages
 
@@ -88,17 +93,19 @@ Web: https://munem91.github.io/ruslan-barysiuk-project-manager/
 <!-- Русский -->
 # Руслан Борисюк — Project Manager / Менеджер IT-проектов
 
-Резюме Руслана Борисюка: менеджер IT-проектов (Project Manager) с техническим бэкграундом — 5 лет в разработке и 5 лет в продажах. Scrum, Kanban, Jira, Linear, ТЗ, оценка сроков, релизы. Удалённо.
+Менеджер IT-проектов: 5 лет управления мобильными и веб-проектами и 8+ лет менеджмента и продаж до IT. Agile, Scrum, Kanban, Jira, управление сроками, рисками и стейкхолдерами, релизы в App Store и Google Play. Удалённо.
 
-Менеджер IT-проектов с техническим бэкграундом: 5 лет в мобильной и веб-разработке (6 продуктов в App Store и Google Play) и 5 лет в продажах и e-commerce до IT (свой интернет-магазин).
+Менеджер IT-проектов с 13+ годами в управлении: 8+ лет руководил продажами, командами и собственным бизнесом в разных сферах (e-commerce, офлайн-бизнес, B2C/B2B-продажи), последние 5 лет веду мобильные и веб-проекты — от сбора требований до релиза в App Store и Google Play. 6 продуктов в сторах.
 
-Понимаю и бизнес заказчика, и кухню разработки — разработчики не могут «напустить тумана» в оценках, а заказчик получает честные сроки. Каждый день работаю с AI-инструментами (Claude, Cursor): быстро готовлю ТЗ, документацию и статусы.
+Технический бэкграунд (сам разработчик) — оценки честные, риски видны заранее, разработчики не «напускают тумана». На каждом проекте разбирал и выстраивал процессы PM: бэклог, спринты, роадмап, статусы, приёмка, поставка кода по регламенту. Каждый день работаю с AI-инструментами (Claude, Cursor) — ТЗ, документация и отчёты в разы быстрее.
 
 ## Ключевые навыки
 
-- **Управление:** Scrum, Kanban, Agile, Роадмап, Оценка задач в часах, Управление стейкхолдерами, Написание ТЗ, User stories, Аудит проектов
-- **Инструменты:** Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor
-- **Технический контекст:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Подписки и платежи, Аналитика (Firebase, Adjust)
+- **Управление проектами:** Управление проектами, Agile, Scrum, Kanban, Waterfall, Планирование, Декомпозиция задач (WBS), Оценка сроков, Роадмап, Управление рисками, Управление изменениями, Управление scope, Контроль бюджета, Статус-репорты, Приёмка работ, Релиз-менеджмент
+- **Люди и бизнес:** Управление командой, Управление стейкхолдерами, Кросс-функциональные команды, Ведение переговоров, Деловая коммуникация, Продажи B2B / B2C, Работа с заказчиком, Постановка задач разработчикам
+- **Требования и аналитика:** Сбор и анализ требований, Написание ТЗ, User stories, API-контракты, Customer Development, Продуктовая аналитика (Firebase, Adjust)
+- **Инструменты:** Jira, Confluence, Linear, Trello, Notion, Miro, Figma, Hubstaff, Google Sheets, GitHub / GitLab, Postman, Claude, Cursor
+- **Технический контекст:** iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, In-app покупки и подписки
 
 ## Опыт работы
 
@@ -107,9 +114,9 @@ Web: https://munem91.github.io/ruslan-barysiuk-project-manager/
 
 - Вёл мобильное направление без отдельного PM: архитектура, приоритизация бэклога, релизный план и прямая коммуникация с заказчиком.
 - Подключился к проекту, застрявшему перед релизом: провёл аудит, задокументировал архитектуру и за 1,5 месяца довёл приложение до релиза в App Store и Google Play.
+- Выявил риски застрявшего проекта (форки нативных пакетов, производительность камеры, ревью сторов) и закрыл их до релиза.
 - План до релиза, оценка задач в часах, Trello и Hubstaff, регулярные статусы заказчику.
 - Написал техническую документацию по архитектуре и сборке — проект можно передать другому разработчику за день.
-- Внедрил мониторинг и атрибуцию: Firebase Crashlytics и Adjust (до этого не было).
 
 ### Senior Flutter Developer · релизы и коммуникация — ProveUp — фитнес-батлы и футбольный фристайл (контракт)
 Май 2026 — Сентябрь 2026
@@ -128,34 +135,37 @@ Web: https://munem91.github.io/ruslan-barysiuk-project-manager/
 - Несколько циклов ревью App Store и Google Play, закрыл реджекты по Guidelines 1.4.1 и 3.1.2(c).
 - Если что-то ломается на сервере — приношу бэкенду отчёт с логами и ожидаемым поведением, а не жду.
 
-### Flutter Developer & Project Manager — forYou Inc — маркетплейс Agrotook
+### Project Manager & Flutter Developer — forYou Inc — маркетплейс Agrotook
 Октябрь 2024 — Май 2025
 
 - Вёл проект: общение с заказчиком, сбор и формализация требований, план разработки, задачи в Trello, контроль сроков — MVP запущен в срок.
 - Один собрал маркетплейс объявлений для испанского агрорынка и выпустил в Google Play: авторизация, фильтры, объявления, локализация.
 - Настроил CI/CD на GitHub Actions и Docker, окружения через --dart-define; публикация и модерация в сторе.
 
-### Flutter Developer — Фриланс — контрактные проекты
+### Flutter Developer · ведение клиентских проектов — Фриланс — контрактные проекты
 Март 2024 — Сентябрь 2024
 
+- Сам вёл клиентские проекты: оценка, коммерческое предложение, план работ, приёмка и сдача заказчику.
 - Оживил legacy-приложение (VPN) 5-летней давности: обновил SDK, миграция на Dart 3 и Android 13/14, нативные модули на Kotlin поверх FFmpeg.
-- WebView-приложения с JS-мостами и Telegram Mini App на Flutter Web.
 
-### Flutter Developer — SFERA, Работник24, Kerla, Gybernaty
+### Flutter Developer · работа в Scrum-командах — SFERA, Работник24, Kerla, Gybernaty
 Январь 2022 — Февраль 2024
 
+- В каждой команде анализировал работу PM и процессы: спринты, планирование, ретро, оценка — этот опыт перенёс в собственные проекты.
 - Работал в командах от 3 до 10+ человек: git-flow, код-ревью, Scrum-спринты, задачи в Jira.
-- Flutter-разработка в командах: Работник24 (большая команда, Clean Architecture, REST, git-flow), Kerla (Riverpod, Serverpod, PostgreSQL, Docker, CI/CD), Gybernaty (криптокошельки, web3dart), SFERA (первая роль). До этого, в 2021 — коммерческий фронтенд на React.
 
-### Владелец бизнеса — До IT: продажи и e-commerce
-2017 — 2021
+### Менеджер / руководитель продаж, владелец бизнеса — До IT: менеджмент и продажи — e-commerce, офлайн-бизнес, B2C/B2B
+2013 — 2021
 
+- Руководил небольшими командами (продавцы, подрядчики, фрилансеры): найм, постановка задач, контроль KPI и планов продаж.
+- Переговоры и продажи B2C и B2B, работа с возражениями, долгосрочные отношения с клиентами.
+- Вёл бюджет и закупки собственного интернет-магазина: юнит-экономика, маржа, работа с поставщиками.
 - Запустил интернет-магазин и офлайн-бизнес: продажи, переговоры, контент, координация небольших команд в Trello.
 - Работал с разработчиками со стороны заказчика: ставил задачи, тестировал, находил баги, принимал работу.
 
 ## Подхожу на позиции
 
-IT Project Manager, Technical Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов
+IT Project Manager, Technical Project Manager, Agile Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Product Manager (mobile), Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов, Руководитель отдела продаж
 
 ## Образование · Языки
 

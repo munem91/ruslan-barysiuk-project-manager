@@ -1,11 +1,11 @@
-# Ruslan Barysiuk — IT Project Manager, Technical PM (mobile & web)
+# Ruslan Barysiuk — IT / Technical Project Manager, 13+ years in management (Agile, Scrum, Jira)
 
-> Resume of Ruslan Barysiuk: IT Project Manager / Technical PM with 5 years in software delivery and 5 years in sales. Scrum, Kanban, Jira, Linear, specs, estimates, releases. Remote. Also written as Руслан Борисюк.
+> IT / Technical Project Manager: 5 years running mobile and web projects plus 8+ years in business management and sales. Agile, Scrum, Kanban, Jira, schedule, risk and stakeholder management, App Store and Google Play releases. Remote. Also written as Руслан Борисюк.
 
-- Summary: IT project manager with a hands-on technical background: 5 years in mobile and web development (6 products on the App Store and Google Play) and 5 years in sales and e-commerce before IT (own online store). I understand both the client's business and how engineering works — estimates stay honest and the client gets realistic timelines. I use AI tools (Claude, Cursor) daily to produce specs, documentation and status reports fast.
-- Strengths: Requirements & specs — Uncover client needs, formalize requirements and user stories, write specs and API contracts for the backend.; Planning & estimates — Break work down and estimate it in hours; roadmaps with milestones and priorities; defend timelines to the business.; Process & team — Scrum and Kanban: backlog, sprint planning, retros; Jira, Linear, Trello, time tracking in Hubstaff.; Releases & stakeholders — Release cycle and store reviews, demos and status updates, code delivery per an agreed process, audits and stabilization of inherited projects.
-- Skills: Management: Scrum, Kanban, Agile, Roadmaps, Estimates in hours, Stakeholder management, Technical specs, User stories, Project audits; Tools: Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor; Technical context: iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Subscriptions & payments, Analytics (Firebase, Adjust)
-- Also searched as: IT Project Manager, Technical Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов
+- Summary: IT project manager with 13+ years in management: 8+ years leading sales, teams and my own businesses across industries (e-commerce, offline retail business, B2C/B2B sales), and the last 5 years running mobile and web projects — from requirements to App Store and Google Play release. 6 products shipped. Hands-on technical background (I'm a developer myself): honest estimates, risks surfaced early, no hand-waving from the team. On every project I analyzed and set up the PM process: backlog, sprints, roadmap, status reporting, acceptance, code delivery. I use AI tools (Claude, Cursor) daily to produce specs, documentation and reports several times faster.
+- Strengths: Planning & scheduling — Work breakdown (WBS), estimates in hours, milestone roadmaps, critical path, defending timelines to the business.; Requirements & scope — Requirements gathering and analysis, user stories, specs and API contracts, scope and change management.; Team & delivery process — Agile, Scrum, Kanban: backlog, sprints, retros; cross-functional teams (design, backend, mobile, QA); Jira, Linear, Trello.; Stakeholders, risks, budget — Status reports and client demos, risk management, negotiations, budget and hours tracking (Hubstaff), acceptance and releases.
+- Skills: Project management: Project management, Agile, Scrum, Kanban, Waterfall, Project planning, Work breakdown structure (WBS), Estimation, Roadmapping, Risk management, Change management, Scope management, Budget tracking, Status reporting, Acceptance, Release management; People & business: Team leadership, Stakeholder management, Cross-functional teams, Negotiation, Business communication, B2B / B2C sales, Client management, Task assignment; Requirements & analytics: Requirements gathering, Technical specifications, User stories, API contracts, Customer development, Product analytics (Firebase, Adjust); Tools: Jira, Confluence, Linear, Trello, Notion, Miro, Figma, Hubstaff, Google Sheets, GitHub / GitLab, Postman, Claude, Cursor; Technical context: iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, In-app purchases & subscriptions
+- Also searched as: IT Project Manager, Technical Project Manager, Agile Project Manager, Project Manager (mobile / web), Delivery Manager, Product Owner, Scrum Master, Product Manager (mobile), Менеджер IT-проектов, Руководитель проектов, Технический менеджер проекта, Менеджер мобильных проектов, Руководитель отдела продаж
 - Languages: Russian and Belarusian (native), Ukrainian (fluent), English (B1)
 - Contact: Telegram [@art_munem](https://t.me/art_munem) (fastest), email borisukrusaln12345@gmail.com, WhatsApp +66 80 285 5847, [LinkedIn](https://www.linkedin.com/in/ruslan-barysiuk-005b27236/), [GitHub](https://github.com/munem91)
 
@@ -23,9 +23,9 @@ Sep 2026 — Oct 2026
 
 - Owned the mobile track without a dedicated PM: architecture, backlog prioritization, release plan and direct client communication.
 - Joined a project stuck before release: audited the codebase, documented the architecture and shipped the app to the App Store and Google Play in 1.5 months.
+- Identified the stalled project's risks (forked native packages, camera performance, store review) and closed them before release.
 - Built the release plan, estimated tasks in hours, tracked work in Trello and Hubstaff, sent the client regular status updates.
 - Wrote architecture and build documentation so the project can be handed over to another developer in a day.
-- Added monitoring and attribution: Firebase Crashlytics and Adjust (neither was in place).
 
 ### Senior Flutter Developer — ProveUp — fitness battles & freestyle football (contract)
 May 2026 — Sep 2026
@@ -54,34 +54,37 @@ Oct 2024 — May 2025
 ### Flutter Developer — Freelance — contract projects
 Mar 2024 — Sep 2024
 
+- Ran client projects myself: estimates, proposals, work plans, acceptance and handover.
 - Revived a 5-year-old legacy VPN app: SDK updates, migration to Dart 3 and Android 13/14, native Kotlin modules on top of FFmpeg.
-- WebView apps with JS bridges and a Telegram Mini App on Flutter Web.
 
 ### Flutter Developer — SFERA, Rabotnik24, Kerla, Gybernaty
 Jan 2022 — Feb 2024
 
+- In every team I studied how the PM and process worked — sprints, planning, retros, estimation — and carried it into my own projects.
 - Worked in teams of 3 to 10+ people: git-flow, code review, Scrum sprints, tasks in Jira.
-- Flutter work in teams: Rabotnik24 (large team, Clean Architecture, REST, git-flow), Kerla (Riverpod, Serverpod, PostgreSQL, Docker, CI/CD), Gybernaty (crypto wallets, web3dart), SFERA (first role). Before that, in 2021 — commercial front-end in React.
 
-### Business owner — Before IT: sales & e-commerce
-2017 — 2021
+### Sales manager / head of sales, business owner — Before IT: business management & sales — e-commerce, offline business, B2C/B2B
+2013 — 2021
 
+- Led small teams (sales staff, contractors, freelancers): hiring, task assignment, KPI and sales-plan tracking.
+- B2C and B2B sales and negotiations, objection handling, long-term client relationships.
+- Ran the budget and purchasing of my own online store: unit economics, margins, supplier management.
 - Launched an online store and an offline business: sales, negotiations, content, coordinating small teams in Trello.
 - Worked with developers as the client: set tasks, tested, found bugs, accepted deliverables.
 
 ## FAQ
 
 **Who is Ruslan Barysiuk?**
-Ruslan Barysiuk — IT Project Manager / Technical PM. IT project manager with a hands-on technical background: 5 years in mobile and web development (6 products on the App Store and Google Play) and 5 years in sales and e-commerce before IT (own online store).
+Ruslan Barysiuk — IT Project Manager / Technical PM. IT project manager with 13+ years in management: 8+ years leading sales, teams and my own businesses across industries (e-commerce, offline retail business, B2C/B2B sales), and the last 5 years running mobile and web projects — from requirements to App Store and Google Play release. 6 products shipped.
 
 **What is his experience?**
-I understand both the client's business and how engineering works — estimates stay honest and the client gets realistic timelines. I use AI tools (Claude, Cursor) daily to produce specs, documentation and status reports fast. Letter of recommendation from a previous employer available on request. Network of experienced engineers from past projects — can bring in more people if needed.
+Hands-on technical background (I'm a developer myself): honest estimates, risks surfaced early, no hand-waving from the team. On every project I analyzed and set up the PM process: backlog, sprints, roadmap, status reporting, acceptance, code delivery. I use AI tools (Claude, Cursor) daily to produce specs, documentation and reports several times faster. Letter of recommendation from a previous employer available on request. Network of experienced engineers from past projects — can bring in more people if needed.
 
 **Does he work remotely, and in which time zone?**
 Yes, remote only: Bangkok, GMT+7. Flexible hours to overlap with the team. Full-time, part-time (hourly) or contract.
 
 **What is his stack?**
-Management: Scrum, Kanban, Agile, Roadmaps, Estimates in hours, Stakeholder management, Technical specs, User stories, Project audits; Tools: Jira, Linear, Trello, Hubstaff, Notion, Figma, GitHub / GitLab, Postman, Claude, Cursor; Technical context: iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, Subscriptions & payments, Analytics (Firebase, Adjust)
+Project management: Project management, Agile, Scrum, Kanban, Waterfall, Project planning, Work breakdown structure (WBS), Estimation, Roadmapping, Risk management, Change management, Scope management, Budget tracking, Status reporting, Acceptance, Release management; People & business: Team leadership, Stakeholder management, Cross-functional teams, Negotiation, Business communication, B2B / B2C sales, Client management, Task assignment; Requirements & analytics: Requirements gathering, Technical specifications, User stories, API contracts, Customer development, Product analytics (Firebase, Adjust); Tools: Jira, Confluence, Linear, Trello, Notion, Miro, Figma, Hubstaff, Google Sheets, GitHub / GitLab, Postman, Claude, Cursor; Technical context: iOS / Android, Flutter, REST API, CI/CD, TestFlight, App Store / Google Play review, In-app purchases & subscriptions
 
 **How to contact him?**
 Fastest via Telegram @art_munem. Also email borisukrusaln12345@gmail.com, WhatsApp +66 80 285 5847, LinkedIn.
